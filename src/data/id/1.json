@@ -1,5 +1,5 @@
 {
-    "id": "1",
+    "id": 1,
     "jobTitle": "React Native Developer",
     "companyName": "Acestack Technologies",
     "Highlights": "Highlights",
@@ -23,44 +23,6 @@
         },
         {
             "des": "3. Hands-on working experience in cross platform development technologies (React Native, Flutter, Ionic, etc.)."
-        },
-        {
-            "des": "4. Develop technical solutions and architectures for mobile applications and services that align with business goals."
-        },
-        {
-            "des": "5. Assess and analyze business requirements to create mobile architecture designs."
-        },
-        {
-            "des": "6. Should have extensive technical exposure in designing complex systems."
-        },
-        {
-            "des": "7. Identify and mitigate risks associated with the mobile solution's architecture."
-        },
-        {
-            "des": "8.Analyze user requirements to define business objectives."
-        },
-        {
-            "des": "9. Conducting software analysis, programming, testing, and debugging."
-        },
-        {
-            "des": "10. Ensure application designs conform with business goals"
-        },
-        {
-            "des": "11. Identify and resolve any technical issues arising"
-        },
-        {
-            "des": "12. Create detailed design documentation."
-        }
-    ],
-    "recuriterInfo": [
-        {
-            "des": "1. Acestack Technologies is US IT based Company"
-        },
-        {
-            "des": "2. it's place more then 100+ Consultants."
-        },
-        {
-            "des": "3. Job ID: 558474"
         },
         {
             "des": "4. Develop technical solutions and architectures for mobile applications and services that align with business goals."
