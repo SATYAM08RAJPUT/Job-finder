@@ -5,6 +5,10 @@
   scrollbar-width: thin;
   scroll-behavior: smooth;
 }
+.filter-item{
+  margin-left: 30px;
+}
+
 
 .jobposition {
   min-width: 460px;
