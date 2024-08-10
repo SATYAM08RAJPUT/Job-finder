@@ -109,23 +109,21 @@
       display: none;
     }
     .jobposition{
-      min-width: 400px;
+      min-width: 360px;
       min-height: 360px;
-      max-width: 400px;
+      max-width: 360px;
       max-height: 366px;
-      /* width: 80%; */
       border-radius: 5px;
       margin-left: 5%;
       margin-top: 10px;
-      /* background: rgba(248, 242, 252, .4); */
-      background-color: #ffff;
+      background-color: #fff;
       cursor: pointer;
       font-family: sans-serif;
-      box-shadow: 0px 1px 2px 1px #006080;
+      box-shadow: 0 1px 2px 1px #006080;
       padding: 20px;
       margin-bottom: 10px;
     }
     .filter-item {
-      margin-left: 0px;
+      margin-left: 10px;
   }
 }
