@@ -1,0 +1,55 @@
+{
+    "id": "3",
+    "jobTitle": "Front-end Developer",
+    "companyName": "Accliive Consultants",
+    "Highlights": "Highlights",
+    "JobDescription": "Job Description",
+    "more": "More Info",
+    "RecruiterInformation": "Recruiter Information",
+    "location": "Chandigarth",
+    "days": "9+ days Ago",
+    "experience": "Fresher",
+    "function": "Technology",
+    "jobtype": "Full Time",
+    "role": "Front-end Developer",
+    "skills": "Hrml, Css, Js , React ,Redux",
+    "about": "Sampoorna Consultants",
+    "description": [
+        {
+            "des": "1.Stay up-to-date with new technology trends."
+        },
+        {
+            "des": "2.Research and suggest new mobile products, applications and protocols."
+        },
+        {
+            "des": "3.Ensure new and legacy applications meet quality standards."
+        },
+        {
+            "des": "4.Liaise with Product development team to plan new features."
+        },
+        {
+            "des": "6.Design interfaces to improve user experience."
+        },
+        {
+            "des": "7.Troubleshoot and debug to optimize performance."
+        },
+        {
+            "des": "8.Research and suggest new mobile products, applications and protocols."
+        },
+        {
+            "des": "9.Write unit and UI tests to identify malfunctions."
+        },
+        {
+            "des": "1.Strong Technical candidate with in-depth hands-on experience in Native Mobile Development for both Android and iOS (Add On: Windows UWP app development)."
+        },
+        {
+            "des": "2.Proficiency in programming languages such as Swift, Kotlin, Java and Objective C."
+        },
+        {
+            "des": "3.Hands-on working experience in cross platform development technologies (React Native, Flutter, Ionic, etc.)."
+        },
+        {
+            "des": "4.Develop technical solutions and architectures for mobile applications and services that align with business goals."
+        }
+    ]
+}

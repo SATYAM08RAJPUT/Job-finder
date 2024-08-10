@@ -1,0 +1,55 @@
+{
+    "id": "2",
+    "jobTitle": "MOBILE Developer",
+    "companyName": "Accliive Technologies",
+    "Highlights": "Highlights",
+    "JobDescription": "Job Description",
+    "more": "More Info",
+    "RecruiterInformation": "Recruiter Information",
+    "location": "Noida",
+    "days": "2 days Ago",
+    "experience": "8 Years",
+    "function": "IT",
+    "jobtype": "Full Time",
+    "role": "MOBILE Developer",
+    "skills": "Mobile",
+    "about": "Sampoorna Consultants",
+    "description": [
+        {
+            "des": "1.Stay up-to-date with new technology trends."
+        },
+        {
+            "des": "2.Research and suggest new mobile products, applications and protocols."
+        },
+        {
+            "des": "3.Ensure new and legacy applications meet quality standards."
+        },
+        {
+            "des": "4.Liaise with Product development team to plan new features."
+        },
+        {
+            "des": "6.Design interfaces to improve user experience."
+        },
+        {
+            "des": "7.Troubleshoot and debug to optimize performance."
+        },
+        {
+            "des": "8.Research and suggest new mobile products, applications and protocols."
+        },
+        {
+            "des": "9.Write unit and UI tests to identify malfunctions."
+        },
+        {
+            "des": "10.Gather specific requirements and suggest solutions."
+        },
+        {
+            "des": "11.Produce fully functional mobile applications writing clean code."
+        },
+        {
+            "des": "12.Support the entire application lifecycle (concept, design, test, release and support)."
+        },
+        {
+            "des": "12.Support the entire application lifecycle (concept, design, test, release and support)."
+        }
+    ]
+}

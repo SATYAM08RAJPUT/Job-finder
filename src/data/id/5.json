@@ -1,0 +1,52 @@
+{
+    "id": "4",
+    "jobTitle": "Java Full Stack Developer",
+    "companyName": "WovV Technologies",
+    "Highlights": "Highlights",
+    "JobDescription": "Job Description",
+    "more": "More Info",
+    "RecruiterInformation": "Recruiter Information",
+    "location": "Mohali",
+    "days": "2 days Ago",
+    "experience": "Fresher",
+    "function": "Technology",
+    "jobtype": "Full Time",
+    "role": "Java Full Stack Developer",
+    "skills": "Java, microservice, spring boot, Api",
+    "about": "Sampoorna Consultants",
+    "description": [
+        {
+            "des": "1.Strong Technical candidate with in-depth hands-on experience in Native Mobile Development for both Android and iOS (Add On: Windows UWP app development)."
+        },
+        {
+            "des": "2.Proficiency in programming languages such as Swift, Kotlin, Java and Objective C."
+        },
+        {
+            "des": "3.Hands-on working experience in cross platform development technologies (React Native, Flutter, Ionic, etc.)."
+        },
+        {
+            "des": "4.Develop technical solutions and architectures for mobile applications and services that align with business goals."
+        },
+        {
+            "des": "6.Should have extensive technical exposure in designing complex systems."
+        },
+        {
+            "des": "7.Identify and mitigate risks associated with the mobile solution's architecture."
+        },
+        {
+            "des": "8.Proficiency in programming languages such as Swift, Kotlin, Java and Objective C."
+        },
+        {
+            "des": "9.Hands-on working experience in cross platform development technologies (React Native, Flutter, Ionic, etc.)."
+        },
+        {
+            "des": "10.Develop technical solutions and architectures for mobile applications and services that align with business goals."
+        },
+        {
+            "des": "11.Should have extensive technical exposure in designing complex systems."
+        },
+        {
+            "des": "12.Identify and mitigate risks associated with the mobile solution's architecture."
+        }
+    ]
+}

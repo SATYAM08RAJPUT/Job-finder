@@ -1,0 +1,120 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  scroll-behavior: smooth;
+}
+
+.jobposition {
+  min-width: 460px;
+  min-height: 350px;
+  max-width: 460px;
+  max-height: 350px;
+  /* width: 80%; */
+  border-radius: 5px;
+  margin-left: 2%;
+  margin-top: 20px;
+  /* background: rgba(248, 242, 252, .4); */
+  background-color: #ffff;
+  cursor: pointer;
+  font-family: sans-serif;
+  box-shadow: 0px 1px 2px 1px #006080;
+  padding: 20px;
+  margin-bottom: 10px;
+  /* border: #006080 solid 1px; */
+}
+
+.profile {
+  margin: 50px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.profile .fa {
+  margin-top: 10px;
+}
+
+.jobdescribe p {
+  line-height: 1.8rem;
+  color: #006080;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.jobdescribe h3 {
+  color: #006080;
+  font-size: 15px;
+  margin-bottom: 2px;
+}
+
+.skills-set {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.skills {
+  margin-left: 10px;
+  border: solid;
+}
+
+/* .skills{
+  width: 150px;
+  border-radius: 6px;
+  background-color: rgb(233, 229, 229);
+  margin-left: 10px;
+  padding: 5px;
+  cursor: pointer;
+  font-family: sans-serif;
+} */
+/* .skills span{
+  border-radius:55px;
+  padding: 10px;
+} */
+.days {
+  text-align: right;
+  color: #006080;
+  opacity: 0.7;
+}
+
+.job-container {
+  display: grid;
+  width: 100%;
+  margin-top: 130px;
+  grid-template-columns: 1fr 1fr;
+  /* gap: 10px; */
+  position: relative;
+}
+
+/* .app{
+  width: 100vw;
+  height: 100vh;
+} */
+
+
+
+/* 
+@media screen and (max-width:600px){
+    .job-container{
+      display: flex;
+      width: 100%;
+      margin-top: 250px;
+    }
+    .mainConatiner{
+      display: none;
+    }
+    .jobposition{
+      max-width: 400px;
+      max-height: 330px;
+      border-radius: 5px;
+      margin-left: 4%;
+      margin-top: 20px;
+      background: rgba(248, 242, 252, .4);
+      cursor: pointer;
+      font-family: sans-serif;
+      box-shadow: 0px 1px 2px 1px rgb(197, 172, 172);
+      padding: 20px;
+      border: #006080 solid 1px;
+    }
+} */

@@ -1,0 +1,49 @@
+{
+    "id": "3",
+    "jobTitle": "Web Developer",
+    "companyName": "WovV Technologies",
+    "Highlights": "Highlights",
+    "JobDescription": "Job Description",
+    "more": "More Info",
+    "RecruiterInformation": "Recruiter Information",
+    "location": "Noida",
+    "days": "2 days Ago",
+    "experience": "Fresher",
+    "function": "Technology",
+    "jobtype": "Full Time",
+    "role": "Web Developer",
+    "skills": "Hrml, Css, Js , React ,Redux, Graphic, Responsive Web design",
+    "about": "WovV Technologies",
+    "description": [
+        {
+            "des": "1.Proficiency in programming languages such as Swift, Kotlin, Java and Objective C."
+        },
+        {
+            "des": "2.Hands-on working experience in cross platform development technologies (React Native, Flutter, Ionic, etc.)."
+        },
+        {
+            "des": "3.Develop technical solutions and architectures for mobile applications and services that align with business goals."
+        },
+        {
+            "des": "4.Should have extensive technical exposure in designing complex systems."
+        },
+        {
+            "des": "5.Strong Technical candidate with in-depth hands-on experience in Native Mobile Development for both Android and iOS (Add On: Windows UWP app development)."
+        },
+        {
+            "des": "6.Proficiency in programming languages such as Swift, Kotlin, Java and Objective C."
+        },
+        {
+            "des": "7.Hands-on working experience in cross platform development technologies (React Native, Flutter, Ionic, etc.)."
+        },
+        {
+            "des": "8.Develop technical solutions and architectures for mobile applications and services that align with business goals."
+        },
+        {
+            "des": "9.Should have extensive technical exposure in designing complex systems."
+        },
+        {
+            "des": "10.Identify and mitigate risks associated with the mobile solution's architecture."
+        }
+    ]
+}

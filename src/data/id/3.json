@@ -1,0 +1,55 @@
+{
+    "id": "3",
+    "jobTitle": "React Developer",
+    "companyName": "WovV Technologies",
+    "Highlights": "Highlights",
+    "JobDescription": "Job Description",
+    "more": "More Info",
+    "RecruiterInformation": "Recruiter Information",
+    "location": "Delhi",
+    "days": "1 days Ago",
+    "experience": "1 Years",
+    "function": "Technology",
+    "jobtype": "Full Time",
+    "role": "React Developer",
+    "skills": "React js , Vue Js",
+    "about": "Sampoorna Consultants",
+    "description": [
+        {
+            "des": "1.Strong Technical candidate with in-depth hands-on experience in Native Mobile Development for both Android and iOS (Add On: Windows UWP app development)."
+        },
+        {
+            "des": "2.Proficiency in programming languages such as Swift, Kotlin, Java and Objective C."
+        },
+        {
+            "des": "3.Hands-on working experience in cross platform development technologies (React Native, Flutter, Ionic, etc.)."
+        },
+        {
+            "des": "4.Develop technical solutions and architectures for mobile applications and services that align with business goals."
+        },
+        {
+            "des": "6.Should have extensive technical exposure in designing complex systems."
+        },
+        {
+            "des": "7.Identify and mitigate risks associated with the mobile solution's architecture."
+        },
+        {
+            "des": "1.Strong Technical candidate with in-depth hands-on experience in Native Mobile Development for both Android and iOS (Add On: Windows UWP app development)."
+        },
+        {
+            "des": "2.Proficiency in programming languages such as Swift, Kotlin, Java and Objective C."
+        },
+        {
+            "des": "3.Hands-on working experience in cross platform development technologies (React Native, Flutter, Ionic, etc.)."
+        },
+        {
+            "des": "4.Develop technical solutions and architectures for mobile applications and services that align with business goals."
+        },
+        {
+            "des": "6.Should have extensive technical exposure in designing complex systems."
+        },
+        {
+            "des": "7.Identify and mitigate risks associated with the mobile solution's architecture."
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+/* src/components/CustomMultiSelect.css */
+.custom-multiselect {
+  position: relative;
+  display: inline-block;
+  margin: 0 18px;
+}
+
+.dropdown-toggle {
+  /* height: 50px; */
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+  border-radius: 4.5em;
+  border: 1px solid #4c666e;
+  /* border: none; */
+  font-size: 13px;
+  line-height: 21px;
+  color: black;
+  -webkit-box-align: center;
+  align-items: center;
+  white-space: nowrap;
+  font-family: Font-Light;
+  cursor: pointer;
+  font-family: sans-serif;
+  /* background-color: #006080; */
+  transition: all 0.2s ease 0s;
+  /* color: white; */
+
+}
+
+.dropdown-toggle:focus-within {
+  border: 2px solid #006080;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 110%;
+  left: 0;
+  width: 200px;
+  border: 1px solid #ccc;
+  background-color: #006080;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  color: white;
+}
+
+.dropdown-item {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.dropdown-item input[type="checkbox"] {
+  margin-right: 8px;
+}
+
+@media screen and (max-width:600px) {
+  .dropdown-toggle {
+    margin: 10px;
+  }
+
+}

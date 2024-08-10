@@ -1,0 +1,130 @@
+{
+    "jobList": [
+        {
+            "id": "1",
+            "jobTitle": "React Native Developer I Permanent WFH",
+            "company": "WovV Technologies Private Limited(Division consulting Pvt Ltd)",
+            "jobtype": "Full Time",
+            "location": "Gurugram",
+            "experience": "3 Years",
+            "salary": "20-25K",
+            "skills": [
+                "React Native",
+                "Redux",
+                "Mobile Development",
+                "Mobile Application"
+            ],
+            "days": "3 days Ago",
+            "function": "Technology",
+            "role": "React Native Developer"
+        },
+        {
+            "id": "2",
+            "jobTitle": "Java Developer",
+            "company": "Sampoorna Consultants Private Limited (Division consulting Pvt Ltd)",
+            "jobtype": "Part Time",
+            "location": "Noida",
+            "experience": "8 Years",
+            "salary": "30-35K",
+            "skills": [
+                "React Native",
+                "Redux",
+                "Mobile Development",
+                "Mobile Application"
+            ],
+            "days": "2 days Ago",
+            "function": "IT",
+            "role": "Java Developer"
+        },
+        {
+            "id": "3",
+            "jobTitle": "React Developer",
+            "company": "Sampoorna Consultants Private Limited (Division consulting Pvt Ltd)",
+            "jobtype": "Full Time",
+            "location": "Delhi",
+            "experience": "1 Years",
+            "salary": "50K",
+            "skills": [
+                "React Native",
+                "Redux",
+                "Mobile Development",
+                "Mobile Application"
+            ],
+            "days": "1 days Ago",
+            "function": "IT/Software Development - Application Pro",
+            "role": "React Developer"
+        },
+        {
+            "id": "4",
+            "jobTitle": "UI/UX Designer",
+            "company": "WovV Technologies",
+            "jobtype": "Part Time",
+            "location": "Bengaluru",
+            "experience": "5+ Years",
+            "salary": "1 Lakh",
+            "skills": [
+                "React Native",
+                "Redux",
+                "Mobile Development",
+                "Mobile Application"
+            ],
+            "days": "9 days Ago",
+            "function": "Finance",
+            "role": "UI/UX Designer"
+        },
+        {
+            "id": "5",
+            "jobTitle": "Java Full Stack Developer",
+            "company": "WovV Technologies",
+            "jobtype": "Remote",
+            "location": "Mohali",
+            "experience": "Fresher",
+            "salary": "2 Lakh",
+            "skills": [
+                "React Native",
+                "Redux",
+                "Mobile Development",
+                "Mobile Application"
+            ],
+            "days": "9 days Ago",
+            "function": "IT/Software Development - Application Pro",
+            "role": "Java Full Stack Developer"
+        },
+        {
+            "id": "6",
+            "jobTitle": "Front-End Developer",
+            "company": "Accliive Consultants Private Limited (Division consulting Pvt Ltd)",
+            "jobtype": "Remote",
+            "location": "Chandigarth",
+            "experience": "Fresher",
+            "salary": "3 Lakh",
+            "skills": [
+                "React Native",
+                "Redux",
+                "Mobile Development",
+                "Mobile Application"
+            ],
+            "days": "9 days Ago",
+            "function": "Engineering",
+            "role": "Front-End Developer"
+        },
+        {
+            "id": "7",
+            "jobTitle": "Web Developer",
+            "company": "WovV Technologies",
+            "jobtype": "Part Time",
+            "location": "Noida",
+            "experience": "Fresher",
+            "salary": "10k",
+            "skills": [
+                "React Native",
+                "Redux",
+                "Mobile Development",
+                "Mobile Application"
+            ],
+            "days": "9 days Ago",
+            "function": "Banking",
+            "role": "Graphic/Web Designer"
+        }
+    ]
+}
