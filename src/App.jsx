@@ -82,7 +82,7 @@ function App() {
 
   const fetchDefaultJobDescription = async () => {
     try {
-      const fetchData = await fetch("public/data/id/1.json");
+      const fetchData = await fetch("/data/id/1.json");
       const defaultData = await fetchData.json();
       console.log(defaultData)
       setJobDescription(defaultData);
