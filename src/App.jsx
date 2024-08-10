@@ -2,7 +2,8 @@ import { useState } from 'react'
 import './App.css'
 
 import { useEffect } from 'react'
-import jobListing from "./data/jobList.json"
+// import jobListing from "./public/jobList.json"
+import jobListing from "../public/data/jobList.json"
 import FilterPanel from './Components/FilterPanel'
 import JobListData from './Components/jobListData'
 import Header from './Header/header'
