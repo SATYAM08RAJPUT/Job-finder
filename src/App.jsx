@@ -98,7 +98,7 @@ function App() {
 
   const fetchJobDescription = async (selectedJob) => {
     try {
-      const fetchData = await fetch(`public/data/id/${selectedJob}.json`);
+      const fetchData = await fetch(`/data/id/${selectedJob}.json`);
       console.log(fetchData);
       const concatenatedData = await fetchData.json();
       console.log(concatenatedData)
