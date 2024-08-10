@@ -71,6 +71,7 @@ header {
   .left-side {
     width: 20%;
     text-align: left;
+    display: none;
   }
 
   .left-side img {
@@ -80,7 +81,7 @@ header {
   .middle-side {
     width: 80%;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     box-shadow: #5e3b3b33 1px 2px 2px 1px;
     border: solid 1px rgb(198, 185, 185);
     border-radius: 45px;

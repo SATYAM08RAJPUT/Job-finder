@@ -1,4 +1,5 @@
 import "./header.css"
+
 export default function Header({ setSearchTermData, setLocationData, setExperinceData }) {
     return (
         <>

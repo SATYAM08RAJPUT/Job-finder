@@ -6,8 +6,8 @@ import { useEffect } from 'react'
 import jobListing from "../public/data/jobList.json"
 import FilterPanel from './Components/FilterPanel'
 import JobListData from './Components/jobListData'
-import Header from './Header/header'
 import JobDescription from './Components/JobDescription'
+import Header from './Header/header'
 
 function App() {
   const [jobList, setJobList] = useState([]);

@@ -62,6 +62,14 @@
     text-decoration: none;
     color: #006080;
 }
+.job-info a:first-child{
+    color:blue;
+    text-decoration: darkblue;
+}
+.job-info a:focus-within{
+    color:blue;
+    text-decoration: darkblue;
+}
 
 .third-class {
     overflow-y: scroll;
@@ -145,15 +153,6 @@
     font-size: 14px;
 }
 
-
-
-/* .jobheading{
-    margin-top: 150px;
-}
-.job-content{
-    margin-top: 100px;
-} */
-/* 
 @media screen and (max-width:600px){
     .filter-panel{
         display: grid;
@@ -164,8 +163,8 @@
         justify-content: space-around;
         background-color: #ffff;
         position: fixed;
-        top: 56px;
+        top: 53px;
         box-shadow: 0px 1px 1px 0px rgb(203, 165, 165);
         z-index: 1000;
     }
-} */
+}
