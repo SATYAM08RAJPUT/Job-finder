@@ -30,21 +30,21 @@ const FilterPanel = ({ filters, onChange }) => {
     <>
       <div className="filter-panel">
         <CustomMultiSelect
-          options={['Mohali', 'Noida', 'Delhi', "Chandigarth"]}
+          options={['Mohali', 'Noida', 'Delhi', "Chandigarth","Meerut"]}
           selectedOptions={filters.location}
           onChange={handleLocationChange}
           label="Location"
         />
 
         <CustomMultiSelect
-          options={['Fresher', '3 Years', '5+ Years']}
+          options={['Fresher', '3 Years', '5+ Years',"1+ Years"]}
           selectedOptions={filters.experience}
           onChange={handleExperinceChange}
           label="Experince"
         />
 
         <CustomMultiSelect
-          options={['20-25K', '50K', '2 Lakh']}
+          options={['20-25K', '50K', '2 Lakh',"5 Lakh"]}
           selectedOptions={filters.salary}
           onChange={handleSalaryChange}
           label="Salary"
