@@ -5,7 +5,7 @@ export default function Header({ setSearchTermData, setLocationData, setExperinc
         <>
             <header>
                 <div className="left-side">
-                    <img src="https://accliive.com/assets/img/logo.png" />
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAcqtn1hJnHuEinR1CIE7PyJIU_IHzE6MVFg&s" />
                 </div>
                 <div className="middle-side">
                     <input type="search" placeholder="Search by job, company" onChange={(e) => setSearchTermData(e.target.value)} />
